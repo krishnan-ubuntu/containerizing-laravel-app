@@ -1,4 +1,4 @@
-![Docker](https://github.com/supermavster/docker-laravel-8/workflows/Docker/badge.svg)
+![Docker](https://www.krish.website/static/images/files/badge.svg)
 
 ![Image](https://www.krish.website/static/images/files/laravel_with_docker.png)
 
